@@ -1,2 +1,2 @@
 # LogCalculator
-Simple LogCalculator built in Python.
+A simple LogCalculator built in Python.
